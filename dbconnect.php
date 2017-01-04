@@ -18,7 +18,7 @@
 		}
 
 
-		//Function : Send data to database
+		//Function : Get data from database
 		//Parameter : -table to access
 		//			  - id (blank string if not needed)
 		function get(table,id) {
